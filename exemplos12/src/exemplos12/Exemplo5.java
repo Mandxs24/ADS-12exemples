@@ -1,6 +1,6 @@
 package exemplos12;
 
-public class exemplo5 {
+public class Exemplo5 {
 	public static void main(String[] args) {
 		String nome = "Beatriz"; // Definindo nome
 		int x = 5; // Definindo x
